@@ -1,0 +1,15 @@
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\bin\Debug\net6.0\seqfib_teste_target_sistemas.exe
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\bin\Debug\net6.0\seqfib_teste_target_sistemas.deps.json
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\bin\Debug\net6.0\seqfib_teste_target_sistemas.runtimeconfig.json
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\bin\Debug\net6.0\seqfib_teste_target_sistemas.dll
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\bin\Debug\net6.0\seqfib_teste_target_sistemas.pdb
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\obj\Debug\net6.0\seqfib_teste_target_sistemas.csproj.AssemblyReference.cache
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\obj\Debug\net6.0\seqfib_teste_target_sistemas.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\obj\Debug\net6.0\seqfib_teste_target_sistemas.AssemblyInfoInputs.cache
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\obj\Debug\net6.0\seqfib_teste_target_sistemas.AssemblyInfo.cs
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\obj\Debug\net6.0\seqfib_teste_target_sistemas.csproj.CoreCompileInputs.cache
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\obj\Debug\net6.0\seqfib_teste_target_sistemas.dll
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\obj\Debug\net6.0\refint\seqfib_teste_target_sistemas.dll
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\obj\Debug\net6.0\seqfib_teste_target_sistemas.pdb
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\obj\Debug\net6.0\seqfib_teste_target_sistemas.genruntimeconfig.cache
+E:\DEV\Target Sistemas\seqfib_teste_target_sistemas\obj\Debug\net6.0\ref\seqfib_teste_target_sistemas.dll
